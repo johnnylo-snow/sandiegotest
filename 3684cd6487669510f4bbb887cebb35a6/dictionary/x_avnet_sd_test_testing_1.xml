@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Testing 1" max_length="40" name="x_avnet_sd_test_testing_1" type="collection"/>
+</database>
